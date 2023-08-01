@@ -2,8 +2,6 @@ Hey! I am Tetiana Bas, originaly from Ukraine but based in San Francisco, Califo
 
 🎓 Education: I am currently a Data Science/Machine learning student at Minerva University - the most selective educational program that includes living in 6 countries while getting an undegrad degree.
 
-💻 Experience: Throughout my academic journey, I have honed my skills in various areas of Machine Learning, Data Analysis, and Statistics.
-
 🌱 Constant Learner: I am committed to continuous learning, staying updated with the latest advancements and industry trends.
 
 💞️ I’m looking for internships and collaborations on interesting and challanging projects
@@ -11,7 +9,7 @@ Hey! I am Tetiana Bas, originaly from Ukraine but based in San Francisco, Califo
 📫 How to reach me: tetiana@uni.minerva.edu
 
 
-Key Skills:
+💻 Key Skills:
 
 Machine Learning: I have hands-on experience in developing and implementing ML models, working with various algorithms and frameworks like Scikit-learn, TensorFlow, and PyTorch. I have utilized tools such as Jupyter Notebook and Google Colab for model development and experimentation.
 
